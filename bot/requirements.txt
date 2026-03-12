@@ -1,3 +1,4 @@
 aiogram
 requests
-dotenv
+python-dotenv
+openai

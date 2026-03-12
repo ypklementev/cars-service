@@ -23,3 +23,18 @@ frontend/*.local
 *.sln
 *.sw?
 .env
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+
+# Alembic
+*.db
+
+# OS
+.DS_Store
